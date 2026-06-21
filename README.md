@@ -10,3 +10,15 @@ The analysis was conducted using four datasets provided by Monday Coffee.
 - customer table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/customers.csv] which contains four columns; customer_id, customer_name, city_id
 - product table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/products.csv] which contains 3 columns; product_id, product_name, price
 - sales table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/sales.csv] which 6 contains; sale_id, sale_date, product_id, customer_id, total, rating
+
+## Methodology
+The analysis was carried out using PostgreSQL. The datasets were imported into PostgreSQL and linked using primary and foreign key relationships.
+The following business questions were answered using SQL queries involving:
+•	Joins
+•	Aggregate functions
+•	Common Table Expressions (CTEs)
+•	Window Functions
+•	Ranking Functions
+•	Date Functions
+
+The questions are 
