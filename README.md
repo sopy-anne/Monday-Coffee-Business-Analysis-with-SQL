@@ -50,7 +50,7 @@ Some of the questions are based on:
 ## Results
 Screenshots of all SQL query outputs are provided in the project repository and some are attached in this report.
 Question 1: 
-![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%201.png]
+![][https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%201.png]
 
 The outputs demonstrate clear differences in market size, customer demand, product preferences, and revenue generation across the cities studied.
 
