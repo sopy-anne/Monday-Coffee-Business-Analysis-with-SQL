@@ -32,8 +32,26 @@ Some of the questions are based on:
 - SQL Approach: sales records were filtered for Q4 2023 and aggregated by city.
 - Business Insight: Pune and Chennai demonstrate strong customer demand and purchasing power, making them attractive candidates for physical store expansion.
 
-  #### 3. Sales Volume by Product
+#### 3. Sales Volume by Product
 - Objective: to identify the total number of units sold for each coffee product.
 - SQL Approach: sales transactions were grouped by product, and the number of orders was counted.
 - Business Insight: customers show a stronger preference for coffee consumables than branded merchandise. Future stores should prioritize stocking high-demand coffee products.
 
+#### 4. Average Sales per Customer by City
+- Objective: to calculate the total revenue, number of customers, and average sales per customer in each city.
+- SQL Approach: revenue and customer counts were aggregated by city, and average sales per customer were calculated.
+- Business Insight: while Pune and Chennai generate more revenue per customer, Jaipur and Delhi have larger customer bases, indicating strong market demand.
+
+#### 5: Current Customers Vs Estimated  Coffee Customers
+- Objective: compare estimated coffee consumers with actual customers in each city.
+- SQL Approach: a Common Table Expression (CTE) was used to calculate estimated coffee consumers and compare them with actual customer counts.
+- Business Insight: the large gap between estimated consumers and actual customers suggests significant room for customer acquisition and market growth.
+
+## Results
+Screenshots of all SQL query outputs are provided in the project repository and some are attached in this report.
+Question 1: 
+![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%201.png]
+
+The outputs demonstrate clear differences in market size, customer demand, product preferences, and revenue generation across the cities studied.
+
+## SQL Concepts
