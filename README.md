@@ -6,5 +6,7 @@ The objective of this project is to analyze sales, customer, product, and city-l
 
 ## Data Description
 The analysis was conducted using four datasets provided by Monday Coffee.
-- city dataset, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/city.csv] which contains four columns; city_id, city_name, population, estimated_rent, city_rank
-- 
+- city table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/city.csv] which contains four columns; city_id, city_name, population, estimated_rent, city_rank
+- customer table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/customers.csv] which contains four columns; customer_id, customer_name, city_id
+- product table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/products.csv] which contains 3 columns; product_id, product_name, price
+- sales table, ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/sales.csv] which 6 contains; sale_id, sale_date, product_id, customer_id, total, rating
