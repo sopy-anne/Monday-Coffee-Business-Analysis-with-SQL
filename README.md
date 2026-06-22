@@ -48,7 +48,12 @@ Some of the questions are based on:
 - Business Insight: the large gap between estimated consumers and actual customers suggests significant room for customer acquisition and market growth.
 
 ## Results
-Screenshots of all SQL query outputs are provided in the project repository and some are attached in this report.
+The SQL script and screenshots of all SQL query outputs are provided in the project repository. 
+
+You can access the SQL script here: ![https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Monday%20Coffee%20Brand%20-%20Capstone.sql]
+
+Some screenshots are attached in this report as follows:
+
 Question 1: 
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%201.png)
 
