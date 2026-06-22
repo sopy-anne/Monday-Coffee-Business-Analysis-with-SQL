@@ -52,8 +52,6 @@ Screenshots of all SQL query outputs are provided in the project repository and 
 Question 1: 
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%201.png)
 
-The outputs demonstrate clear differences in market size, customer demand, product preferences, and revenue generation across the cities studied.
-
 Question 2: 
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%202i.png)
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%202ii.png)
@@ -68,4 +66,72 @@ Question 4:
 Question 5: 
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%205i.png)
 ![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%205ii.png)
-## SQL Concepts
+
+Overall, the outputs demonstrate clear differences in market size, customer demand, product preferences, and revenue generation across the cities studied.
+
+## SQL Concepts Used
+
+The following PostgreSQL concepts were applied during the analysis:
+#### Data Aggregation
+- SUM()
+- COUNT()
+- AVG()
+#### Table Joins
+- INNER JOIN
+#### Date Functions
+•	EXTRACT()
+•	DATE_TRUNC()
+#### Common Table Expressions (CTEs)
+•	WITH clause
+#### Window Functions
+•	LAG()
+•	RANK()
+#### Sorting and Filtering
+•	ORDER BY
+•	GROUP BY
+•	WHERE
+
+These SQL concepts enabled efficient analysis of customer behavior, sales performance, and market opportunities.
+
+## Key Insights and Recommendations
+#### Key Insights
+1.	Delhi and Mumbai have the largest potential coffee-consuming populations.
+2.	Pune and Chennai generate the highest revenues and average customer spending.
+3.	Jaipur and Delhi have the largest active customer bases.
+4.	Coffee Brew Pack (6 Bottles), Ground Espresso Coffee, and Instant Coffee Powder are the most popular products.
+5.	There remains a large untapped market in most cities, indicating opportunities for growth.
+#### Recommendations
+Based on the results of the analysis, it is recommended that Monday Coffee focus on these 3 cities for physical store expansion
+1. Pune
+Reasons:
+-	Highest total revenue.
+- Highest average sales per customer.
+-	Strong customer purchasing power.
+-	Proven demand for coffee products.
+2. Chennai
+Reasons:
+-	Second-highest revenue.
+-	High average sales per customer.
+-	Strong and consistent product demand.
+-	Attractive market for premium coffee products.
+3. Delhi
+Reasons:
+-	Largest estimated coffee consumer population.
+-	One of the largest active customer bases.
+-	Strong sales performance and significant growth potential.
+
+These three cities provide the best balance between current demand, customer spending, and future market opportunities.
+
+## Limitations and Future Work
+#### Limitations
+-	The analysis assumes that 25% of each city’s population consumes coffee.
+-	Customer demographic information was not available.
+-	Competitor presence and market saturation were not considered.
+-	Rental estimates may differ from actual retail property costs.
+#### Future Work
+Future analyses could include:
+-	Customer segmentation analysis.
+-	Sales forecasting and demand prediction.
+-	Customer retention and loyalty analysis.
+Such analyses would provide deeper insights for future expansion decisions and long-term business growth.
+
