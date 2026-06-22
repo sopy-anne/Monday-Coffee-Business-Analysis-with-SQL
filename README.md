@@ -54,4 +54,18 @@ Question 1:
 
 The outputs demonstrate clear differences in market size, customer demand, product preferences, and revenue generation across the cities studied.
 
+Question 2: 
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%202i.png)
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%202ii.png)
+
+Question 3: 
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%203.png)
+
+Question 4:
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/question%204i.png)
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%204ii.png)
+
+Question 5: 
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%205i.png)
+![](https://github.com/sopy-anne/Monday-Coffee-Business-Analysis-with-SQL/blob/main/Question%205ii.png)
 ## SQL Concepts
