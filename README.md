@@ -84,17 +84,17 @@ The following PostgreSQL concepts were applied during the analysis:
 #### Table Joins
 - INNER JOIN
 #### Date Functions
-•	EXTRACT()
-•	DATE_TRUNC()
+-	EXTRACT()
+-	DATE_TRUNC()
 #### Common Table Expressions (CTEs)
-•	WITH clause
+-	WITH clause
 #### Window Functions
-•	LAG()
-•	RANK()
+-	LAG()
+-	RANK()
 #### Sorting and Filtering
-•	ORDER BY
-•	GROUP BY
-•	WHERE
+-	ORDER BY
+-	GROUP BY
+-	WHERE
 
 These SQL concepts enabled efficient analysis of customer behavior, sales performance, and market opportunities.
 
